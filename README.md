@@ -18,6 +18,59 @@
 </div>
 
 ---
+---
+
+# 👥 Meet My Team
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="./assets/mohamed-qr.png" width="170">
+
+### 📱 Mohamed Ait
+
+**Mobile Developer**
+
+Flutter • Dart • UI/UX
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="./assets/amine-qr.png" width="170">
+
+### 🎬 Amine
+
+**Senior Video Editor**
+
+Video Editing • Visual Content
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="./assets/ademb-qr.png" width="170">
+
+### ⚙️ Ademb.Ahi
+
+**Junior Backend Developer**
+
+Backend • APIs • Server
+
+</td>
+
+</tr>
+</table>
+
+### 📱 Mobile + ⚙️ Backend + 🎬 Video
+
+**Different skills. One team.**
+
+</div>
 
 ## 🚀 About Me
 
