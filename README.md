@@ -1,148 +1,216 @@
-# Mohamed Ait Dev
+<div align="center">
 
-<p align="center">
-  <img src="./assets/instagram-qr.png" width="220" alt="Instagram QR Code">
-</p>
+# 👋 Hey, I'm Mohamed Ait
 
-<p align="center">
-  <b>Mobile Developer • Game Developer • Python Developer • Team Player • Content Creator</b>
-</p>
+### 📱 Mobile Developer • 🎮 Game Developer • 🐍 Python Developer • 🎥 Content Creator
 
-<p align="center">
-  I build mobile experiences, games, automation systems, and digital products — while growing teams and turning ideas into working projects.
-</p>
+Building products, games, and ideas — while learning how to turn technology into real businesses.
+
+</div>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-I'm a **junior front-end / mobile developer** with hands-on experience building Flutter applications, a **game developer** focused on Godot, and a Python developer interested in automation and practical systems.
+I'm a developer focused on **mobile applications, game development, and practical software solutions**.
 
-I enjoy working where **development, design, teamwork, and content creation** meet.
+I enjoy working on projects where development isn't just about writing code, but about understanding the product, the users, the design, and the team behind it.
 
-### 🏆 Highlights
-
-- 👨‍💻 **Sub-Mobile Development Team Leader — OMC**
-- 🎮 **Ranked 20th out of 480 in the SOP Game Jam**
-- 🐍 Worked as part of a team to build an **automated professional email system for OMC**
-- 🤝 Worked as a teammate across **5 hackathons**
-- 🚀 Building real-world software projects with a small multidisciplinary team
+- 📱 **Junior Mobile Developer** specializing in Flutter
+- 🎮 **Senior Game Developer** with experience in game development and game jams
+- 🐍 Python developer with experience building automation systems
+- 🎨 Interested in UI/UX, product design and branding
+- 🤝 Experienced team player and team leader
+- 🎬 Content creator building my personal brand
+- 🧠 Always learning and experimenting with new technologies
 
 ---
 
-## 🛠️ Skills
+# 🏆 Achievements
 
-### 📱 Mobile & Front-End Development
+### 🥇 Sub Mobile Development Team Leader — OMC
 
-- Flutter & Dart
-- Responsive UI development
+One of my biggest achievements was becoming a **Sub Mobile Development Team Leader at OMC**, where I worked with other developers and contributed to the development team.
+
+This taught me more than just programming:
+
+> Communication, teamwork, responsibility, leadership and building software together.
+
+---
+
+### 🎮 SOP Game Jam — Top 20 / 480
+
+Participated in the **SOP Game Jam** and ranked:
+
+# 🏆 20th / 480
+
+This experience pushed me to work under pressure, build a complete game within a limited timeframe, and collaborate effectively.
+
+---
+
+### 💻 Hackathons
+
+I've worked as a **team member in 5 hackathons**.
+
+These experiences helped me develop skills beyond coding:
+
+- 🤝 Team collaboration
+- ⚡ Rapid prototyping
+- 🧠 Problem solving
+- 🎯 Working under deadlines
+- 💡 Turning ideas into working products
+
+---
+
+### 🐍 Python Automation — OMC
+
+I was part of a team that worked on building an **automated professional email system for OMC using Python**.
+
+This gave me practical experience working on automation and building software as part of a team.
+
+---
+
+# 💻 My Skills
+
+## 📱 Mobile Development
+
+**Main focus**
+
+- Flutter
+- Dart
+- Mobile UI development
+- API integration
+- Repository Pattern
+- Clean architecture concepts
 - State management
-- REST API integration
-- Repository Pattern / layered architecture
-- Dependency Injection
-- Localization & RTL support
-- Map-based applications
-- Authentication flows
-- Local data persistence
-- Debugging & performance-oriented development
+- Localization
+- Responsive UI
+- Maps & location-based applications
 
-### 🎮 Game Development
+### Current focus
+
+Building production-oriented Flutter applications and learning how to move from simply writing applications to building **real products**.
+
+---
+
+## 🎮 Game Development
+
+### Senior Game Developer
 
 - Godot Engine
-- Gameplay programming
-- Game systems
-- Prototyping
-- Game jam development
-- Rapid iteration under deadlines
+- Game mechanics
+- Gameplay systems
+- Game prototyping
+- Game development workflows
+- Rapid development for game jams
 
-**Achievement:** 🏆 Ranked **20 / 480** in the SOP Game Jam.
+🏆 **SOP Game Jam — 20th / 480**
 
-### 🐍 Python
+---
+
+## 🐍 Python
 
 - Python development
 - Automation
 - Scripting
-- Practical system development
+- Application logic
+- Team-based development
 
-**Project experience:** Worked with a team on an **automated professional email system for OMC**.
-
-### 🤝 Teamwork & Leadership
-
-- Sub-Mobile Development Team Leader at OMC
-- Team collaboration across **5 hackathons**
-- Comfortable working with developers, designers, and creative specialists
-- Task coordination and deadline-driven development
+🏆 Worked with a team on an **automated professional email system for OMC**.
 
 ---
 
-## 🧰 Tools I Work With
+# 🎨 Design & Creative Skills
+
+I'm not only interested in writing code.
+
+I also work with:
+
+- 🎨 Figma
+- 🖌️ Canva
+- 🎬 CapCut
+- 🧩 UI/UX design
+- 📱 Mobile interface design
+- 🎥 Content creation
+- 📢 Personal branding
+
+I use these tools to understand and communicate the product I'm building instead of treating development and design as completely separate worlds.
+
+---
+
+# 🛠️ Tools I Use
 
 | Category | Tools |
 |---|---|
-| 💻 Development | VS Code, other IDEs |
-| 📱 Mobile | Flutter, Dart |
+| 📱 Mobile | Flutter • Dart |
 | 🎮 Game Development | Godot |
-| 🎨 UI / Design | Figma, Canva |
-| 🎬 Video / Content | CapCut |
-| 🔧 Workflow | Git, GitHub |
+| 🐍 Programming | Python |
+| 🎨 UI/UX | Figma |
+| 🖌️ Design | Canva |
+| 🎬 Video | CapCut |
+| 💻 Development | VS Code • Other IDEs |
+| 🌐 Collaboration | Git • GitHub |
+| 🤝 Team Work | Hackathons • Development Teams |
 
 ---
 
-## 👥 My Team
+# 👥 My Team
 
-I also work with a small team of **3 members**:
+I currently work with a small team of **three developers/creatives** with complementary skills.
 
-- 👨‍💻 **Me** — Mobile / Front-End Developer & Game Developer
-- ⚙️ **Junior Backend Developer** — Backend development & APIs
-- 🎬 **Senior Video Editor** — Video editing & visual content
+<table align="center">
+  <tr>
 
-Together, we can cover much more than development alone — from **product idea → design → development → backend → content**.
+    <td align="center" width="33%">
+      <img src="assets/team/mohamed_qr.png" width="180"><br>
+      <b>Mohamed Ait</b><br>
+      <sub>📱 Mobile Developer</sub><br><br>
+      <sub>Flutter • Dart • UI/UX • App Development</sub>
+    </td>
 
----
+    <td align="center" width="33%">
+      <img src="assets/team/amine_qr.png" width="180"><br>
+      <b>Amine</b><br>
+      <sub>🎬 Senior Video Editor</sub><br><br>
+      <sub>Video Editing • Content • Visual Media</sub>
+    </td>
 
-## 🚀 What I Can Build
+    <td align="center" width="33%">
+      <img src="assets/team/ademb_qr.png" width="180"><br>
+      <b>Ademb.Ahi</b><br>
+      <sub>⚙️ Junior Backend Developer</sub><br><br>
+      <sub>Backend • APIs • Server Development</sub>
+    </td>
 
-- 📱 Flutter mobile applications
-- 🗺️ Map & location-based applications
-- 🔐 Authentication systems
-- 🔌 API-connected applications
-- 🎮 Games and interactive prototypes
-- 🐍 Python automation tools
-- 🎨 UI implementations from Figma designs
-- 🤖 AI-powered application features
-- 📦 MVPs and prototypes for ideas and startups
+  </tr>
+</table>
 
----
+### 🧩 Our Skills Complement Each Other
 
-## 📚 Current Focus
+**📱 Mobile Development**  
+I focus mainly on mobile applications, Flutter development, UI and product implementation.
 
-I'm focused on becoming a stronger **product-oriented developer** — not only writing code, but understanding how products are designed, marketed, presented, and turned into real businesses.
+**⚙️ Backend Development**  
+Our backend developer focuses on APIs, server-side systems and connecting applications to their infrastructure.
 
-My direction combines:
+**🎬 Video & Content**  
+Our video editor handles video production and visual content, helping turn our projects and ideas into content people can actually see.
 
-**Development + Design + AI + Marketing + Content + Business**
+Together, we can work across:
 
----
-
-## 📸 Connect With Me
-
-Scan the QR code above to visit my Instagram.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</p>
-
----
-
-## ⚡ Philosophy
-
-> **Build. Learn. Ship. Improve.**
-
-I believe the fastest way to grow is to work on real projects, collaborate with real people, make mistakes, and keep shipping.
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile.</i>
-</p>
+```text
+        💡 IDEA
+          │
+          ▼
+    ┌─────────────┐
+    │   PRODUCT   │
+    └─────────────┘
+       │    │    │
+       ▼    ▼    ▼
+     📱    ⚙️    🎬
+   Mobile Backend Content
+       │    │    │
+       └────┼────┘
+            ▼
+       🚀 COMPLETE
+         PRODUCT
