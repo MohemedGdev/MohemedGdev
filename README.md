@@ -4,7 +4,16 @@
 
 ### 📱 Mobile Developer • 🎮 Game Developer • 🐍 Python Developer • 🎥 Content Creator
 
-Building products, games, and ideas — while learning how to turn technology into real businesses.
+**I build things, learn fast, and turn ideas into working products.**
+
+<br>
+
+<a href="YOUR_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="YOUR_INSTAGRAM_LINK">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
 
@@ -12,205 +21,277 @@ Building products, games, and ideas — while learning how to turn technology in
 
 ## 🚀 About Me
 
-I'm a developer focused on **mobile applications, game development, and practical software solutions**.
+I'm a developer interested in more than just writing code.
 
-I enjoy working on projects where development isn't just about writing code, but about understanding the product, the users, the design, and the team behind it.
+My main focus is **mobile development**, but I've also built games, worked with Python automation, participated in hackathons, designed interfaces, created content, and worked with development teams.
 
-- 📱 **Junior Mobile Developer** specializing in Flutter
-- 🎮 **Senior Game Developer** with experience in game development and game jams
-- 🐍 Python developer with experience building automation systems
-- 🎨 Interested in UI/UX, product design and branding
-- 🤝 Experienced team player and team leader
-- 🎬 Content creator building my personal brand
-- 🧠 Always learning and experimenting with new technologies
+I enjoy taking an idea from:
+
+**💡 Idea → 🎨 Design → 💻 Development → 🧪 Testing → 🚀 Product**
+
+I'm currently working toward becoming someone who can understand and contribute to the **whole product**, not just one part of it.
+
+---
+
+# 💻 What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 Mobile Development
+
+### Junior Mobile Developer
+
+My main development focus is mobile applications.
+
+**Technologies & concepts I work with:**
+
+- Flutter
+- Dart
+- REST APIs
+- Provider
+- Repository Pattern
+- Use Cases
+- Dependency Injection
+- Authentication
+- Local Storage
+- Localization
+- Maps & Location
+- UI/UX implementation
+
+I'm currently focused on improving my ability to build **real-world, production-oriented applications**.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎮 Game Development
+
+### Game Developer
+
+Game development is one of my strongest areas.
+
+**I work with:**
+
+- Godot Engine
+- Gameplay systems
+- Game mechanics
+- Game prototyping
+- Rapid development
+- Game jams
+
+### 🏆 SOP Game Jam
+
+**20th place out of 480 participants**
+
+One of my biggest achievements in game development.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
-### 🥇 Sub Mobile Development Team Leader — OMC
+### 📱 OMC — Sub Mobile Development Team Leader
 
-One of my biggest achievements was becoming a **Sub Mobile Development Team Leader at OMC**, where I worked with other developers and contributed to the development team.
+One of my biggest achievements was becoming a:
 
-This taught me more than just programming:
+**Sub Mobile Development Team Leader at OMC**
 
-> Communication, teamwork, responsibility, leadership and building software together.
+This gave me experience beyond programming:
+
+- 🤝 Team collaboration
+- 🧠 Problem solving
+- 📋 Organizing development work
+- 💬 Technical communication
+- 👥 Working with other developers
+- 🎯 Taking responsibility
 
 ---
 
-### 🎮 SOP Game Jam — Top 20 / 480
+### 🎮 SOP Game Jam — 20 / 480
 
-Participated in the **SOP Game Jam** and ranked:
+Participated in the SOP Game Jam and achieved:
 
 # 🏆 20th / 480
 
-This experience pushed me to work under pressure, build a complete game within a limited timeframe, and collaborate effectively.
+Working under a limited timeframe taught me how to quickly turn an idea into a playable product while working under pressure.
 
 ---
 
-### 💻 Hackathons
+### 💻 5 Hackathons
 
 I've worked as a **team member in 5 hackathons**.
 
-These experiences helped me develop skills beyond coding:
+These experiences helped me improve:
 
-- 🤝 Team collaboration
-- ⚡ Rapid prototyping
-- 🧠 Problem solving
-- 🎯 Working under deadlines
-- 💡 Turning ideas into working products
-
----
-
-### 🐍 Python Automation — OMC
-
-I was part of a team that worked on building an **automated professional email system for OMC using Python**.
-
-This gave me practical experience working on automation and building software as part of a team.
+- Teamwork
+- Communication
+- Rapid prototyping
+- Problem solving
+- Working under deadlines
+- Turning ideas into working solutions
 
 ---
 
-# 💻 My Skills
+### 🐍 OMC — Python Automation
 
-## 📱 Mobile Development
+I was part of a team that built an **automated professional email system for OMC using Python**.
 
-**Main focus**
+This gave me practical experience with:
 
-- Flutter
-- Dart
-- Mobile UI development
-- API integration
-- Repository Pattern
-- Clean architecture concepts
-- State management
-- Localization
-- Responsive UI
-- Maps & location-based applications
-
-### Current focus
-
-Building production-oriented Flutter applications and learning how to move from simply writing applications to building **real products**.
+- Python
+- Automation
+- Software development
+- Team collaboration
+- Building solutions for real use cases
 
 ---
 
-## 🎮 Game Development
+# 🐍 Python
 
-### Senior Game Developer
+I also work with Python for:
 
-- Godot Engine
-- Game mechanics
-- Gameplay systems
-- Game prototyping
-- Game development workflows
-- Rapid development for game jams
-
-🏆 **SOP Game Jam — 20th / 480**
-
----
-
-## 🐍 Python
-
-- Python development
 - Automation
 - Scripting
 - Application logic
-- Team-based development
+- Problem solving
+- Team-based projects
 
-🏆 Worked with a team on an **automated professional email system for OMC**.
+My most notable Python experience so far was contributing to the **OMC professional email automation system**.
 
 ---
 
-# 🎨 Design & Creative Skills
+# 🎨 Design & Creative
 
-I'm not only interested in writing code.
+I believe developers benefit from understanding design.
 
-I also work with:
+I work with:
 
 - 🎨 Figma
 - 🖌️ Canva
 - 🎬 CapCut
-- 🧩 UI/UX design
-- 📱 Mobile interface design
+- 📱 UI/UX
 - 🎥 Content creation
 - 📢 Personal branding
 
-I use these tools to understand and communicate the product I'm building instead of treating development and design as completely separate worlds.
+I use design tools to communicate ideas, prototype interfaces, and create content around the things I build.
 
 ---
 
 # 🛠️ Tools I Use
 
-| Category | Tools |
-|---|---|
-| 📱 Mobile | Flutter • Dart |
-| 🎮 Game Development | Godot |
-| 🐍 Programming | Python |
-| 🎨 UI/UX | Figma |
-| 🖌️ Design | Canva |
-| 🎬 Video | CapCut |
-| 💻 Development | VS Code • Other IDEs |
-| 🌐 Collaboration | Git • GitHub |
-| 🤝 Team Work | Hackathons • Development Teams |
+### 💻 Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,godot,git,github,vscode" />
+
+</p>
+
+### 🎨 Design & Content
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,canva" />
+
+</p>
+
+### 🎬 Other Tools
+
+<p align="center">
+
+`CapCut` • `VS Code` • `Figma` • `Canva` • `Godot` • `GitHub` • `Other IDEs`
+
+</p>
 
 ---
 
 # 👥 My Team
 
-I currently work with a small team of **three developers/creatives** with complementary skills.
+I work with a small team of **three people**, each with a different main skill.
 
-<table align="center">
-  <tr>
+<div align="center">
 
-    <td align="center" width="33%">
-      <img src="assets/team/mohamed_qr.png" width="180"><br>
-      <b>Mohamed Ait</b><br>
-      <sub>📱 Mobile Developer</sub><br><br>
-      <sub>Flutter • Dart • UI/UX • App Development</sub>
-    </td>
+<table>
+<tr>
 
-    <td align="center" width="33%">
-      <img src="assets/team/amine_qr.png" width="180"><br>
-      <b>Amine</b><br>
-      <sub>🎬 Senior Video Editor</sub><br><br>
-      <sub>Video Editing • Content • Visual Media</sub>
-    </td>
+<td align="center" width="33%">
 
-    <td align="center" width="33%">
-      <img src="assets/team/ademb_qr.png" width="180"><br>
-      <b>Ademb.Ahi</b><br>
-      <sub>⚙️ Junior Backend Developer</sub><br><br>
-      <sub>Backend • APIs • Server Development</sub>
-    </td>
+### 📱 Mobile
 
-  </tr>
+<img src="./assets/mohamed-qr.png" width="180">
+
+### Mohamed Ait
+
+**Mobile Developer**
+
+Flutter • Dart • UI/UX
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎬 Video
+
+<img src="./assets/amine-qr.png" width="180">
+
+### Amine
+
+**Senior Video Editor**
+
+Video Editing • Visual Content
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<img src="./assets/ademb-qr.png" width="180">
+
+### Ademb.Ahi
+
+**Junior Backend Developer**
+
+Backend • APIs • Server Development
+
+</td>
+
+</tr>
 </table>
 
-### 🧩 Our Skills Complement Each Other
+</div>
 
-**📱 Mobile Development**  
-I focus mainly on mobile applications, Flutter development, UI and product implementation.
+---
 
-**⚙️ Backend Development**  
-Our backend developer focuses on APIs, server-side systems and connecting applications to their infrastructure.
+## 🧩 Three Skills. One Team.
 
-**🎬 Video & Content**  
-Our video editor handles video production and visual content, helping turn our projects and ideas into content people can actually see.
+<div align="center">
 
-Together, we can work across:
+### 📱 Mobile + ⚙️ Backend + 🎬 Video
+
+**Different skills. One team.**
+
+</div>
 
 ```text
-        💡 IDEA
-          │
-          ▼
-    ┌─────────────┐
-    │   PRODUCT   │
-    └─────────────┘
-       │    │    │
-       ▼    ▼    ▼
-     📱    ⚙️    🎬
-   Mobile Backend Content
-       │    │    │
-       └────┼────┘
-            ▼
-       🚀 COMPLETE
-         PRODUCT
+                         💡 IDEA
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │     OUR TEAM    │
+                  └─────────────────┘
+                     │      │      │
+                     ▼      ▼      ▼
+                    📱     ⚙️     🎬
+                  MOBILE BACKEND VIDEO
+                     │      │      │
+                     └──────┼──────┘
+                            ▼
+                         🚀 PRODUCT
