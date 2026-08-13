@@ -77,7 +77,7 @@ Video Editing · Content
 
 <td align="center" width="33%">
 
-<img src="./assets/backend-qr.png" width="125"/>
+<img src="./assets/adem-qr.png" width="125"/>
 
 <br>
 
