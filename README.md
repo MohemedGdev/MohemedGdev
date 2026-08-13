@@ -16,11 +16,10 @@
 <img src="https://img.shields.io/badge/Instagram-02569B?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=MohemedGdev&label=Profile%20Views&color=02569B&style=flat" />
 
-</div>
+
 
 ---
 
