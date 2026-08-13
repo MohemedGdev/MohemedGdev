@@ -428,11 +428,11 @@ Content
 
 <br>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/mohamed_ait_dev?igsh=YThyZ2FjMGphNjcw">
 <img src="https://img.shields.io/badge/Instagram-02569B?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/MohemedGdev">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
