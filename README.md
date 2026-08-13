@@ -1,24 +1,24 @@
 <div align="center">
 
-# MOHAMED AIT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=180&section=header&text=MOHAMED%20AIT&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Flutter%20%7C%20Dart&descAlignY=60&descSize=18" width="100%"/>
 
-### 📱 Mobile Developer
+# 📱 Mobile Developer
 
-**Flutter · Dart · Python · Game Development**
-
-<br>
-
-I build mobile applications, interactive experiences, and digital products.
+### I build mobile applications, digital products & interactive experiences.
 
 <br>
 
 <a href="YOUR_GITHUB_URL">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-02569B?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=02569B&style=flat" />
 
 </div>
 
@@ -28,7 +28,7 @@ I build mobile applications, interactive experiences, and digital products.
 
 ## 👥 THE TEAM
 
-### We build together.
+### Different specialties. One team.
 
 <br>
 
@@ -37,7 +37,9 @@ I build mobile applications, interactive experiences, and digital products.
 
 <td align="center" width="33%">
 
-<img src="./assets/mohamed-qr.png" width="130">
+<img src="./assets/mohamed-qr.png" width="125"/>
+
+<br>
 
 ### Mohamed Ait
 
@@ -45,29 +47,51 @@ I build mobile applications, interactive experiences, and digital products.
 
 Flutter · Dart · Python
 
+<br>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-02569B?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
 </td>
 
 <td align="center" width="33%">
 
-<img src="./assets/amine-qr.png" width="130">
+<img src="./assets/amine-qr.png" width="125"/>
+
+<br>
 
 ### Amine
 
-**🎥 Senior Video Editor**
+**🎬 Senior Video Editor**
 
 Video Editing · Content
+
+<br>
+
+<a href="YOUR_AMINE_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
 
 </td>
 
 <td align="center" width="33%">
 
-<img src="./assets/ademb-qr.png" width="130">
+<img src="./assets/backend-qr.png" width="125"/>
 
-### Ademb
+<br>
+
+### Backend Developer
 
 **⚙️ Junior Backend Developer**
 
-Backend · APIs
+Backend · APIs · Systems
+
+<br>
+
+<a href="YOUR_BACKEND_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-02569B?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
 
 </td>
 
@@ -80,17 +104,51 @@ Backend · APIs
 
 <div align="center">
 
-## 📱 MOBILE DEVELOPMENT
+# 🚀 WHAT I DO
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge">
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge">
+<table>
+<tr>
 
-<br><br>
+<td width="50%" align="center">
 
-I specialize in building cross-platform mobile applications with Flutter,
-from UI and state management to APIs, repositories and application architecture.
+## 📱 Mobile Development
+
+I build cross-platform applications with **Flutter**, focusing on clean architecture, reusable components, API integration and real-world product development.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🎮 Game Development
+
+I build games and interactive experiences using **Godot** and **Python**, with a strong focus on gameplay and player experience.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🐍 Python
+
+Automation, scripting and software development.
+
+One of my OMC team projects involved building an **automated professional email system**.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🤝 Teamwork
+
+I've worked as a teammate across **5 hackathons** and have experience taking responsibility inside development teams.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -98,38 +156,52 @@ from UI and state management to APIs, repositories and application architecture.
 
 <div align="center">
 
-## 🏆 PROOF OF WORK
+# 🏆 ACHIEVEMENTS
+
+<br>
 
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 🥇 20 / 480
+<h2>🥇 20 / 480</h2>
 
-**SOP Game Jam**
+<b>SOP Game Jam</b>
 
-Ranked **20th out of 480 teams**
+<br><br>
+
+Ranked **20th out of 480**
+
+<br>
+
+Senior Game Developer
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### 👥 Team Leader
+<h2>👥 Team Leader</h2>
 
-**OMC**
+<b>OMC</b>
+
+<br><br>
 
 Sub Mobile Development  
 Team Leader
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-### ⚡ 5 Hackathons
+<h2>⚡ 5 Hackathons</h2>
 
-Worked as a team member  
-across **5 hackathons**
+<b>Team Experience</b>
+
+<br><br>
+
+Worked as a developer  
+across 5 hackathons
 
 </td>
 
@@ -142,154 +214,82 @@ across **5 hackathons**
 
 <div align="center">
 
-## 🐍 PYTHON
+# 🛠️ TECH STACK
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB">
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode&theme=dark" />
+
+<br><br>
+
+### 🐍 Programming
+
+<img src="https://skillicons.dev/icons?i=python,dart&theme=dark" />
+
+<br><br>
+
+### 🎮 Game Development
+
+<img src="https://skillicons.dev/icons?i=godot,python&theme=dark" />
+
+<br><br>
+
+### 🎨 Design & Content
+
+<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" />
+
+<br><br>
+
+### 💻 Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
 
 </div>
-
-I also work with Python for automation and development.
-
-One of my team projects at **OMC** involved building an automated professional email system.
 
 ---
 
 <div align="center">
 
-## 🎮 GAME DEVELOPMENT
-
-<img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=478CBF">
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB">
-
-<br><br>
-
-**Senior Game Developer**
-
-Experience building games and interactive experiences.
+# 🧠 MY DEVELOPMENT APPROACH
 
 <br>
-
-🏆 **SOP Game Jam — Rank 20 / 480**
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ TOOLS
-
-<table>
-<tr>
-<td align="center">
-
-🎨 **Design**
-
-<br><br>
-
-Figma  
-Canva
-
-</td>
-
-<td align="center">
-
-💻 **Development**
-
-<br><br>
-
-VS Code  
-Any IDE  
-Flutter  
-Godot
-
-</td>
-
-<td align="center">
-
-🎬 **Content**
-
-<br><br>
-
-CapCut  
-Content Creation
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 FEATURED PROJECT
-
-# WASLINI
-
-### A Flutter ride-hailing application
-
-A mobile application focused on building a complete ride experience,
-including maps, routing, authentication, repositories, APIs and local/mock infrastructure.
-
-<br>
-
-**Flutter · Dart · REST API · Maps · Provider · Repository Pattern**
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 WHAT I BRING
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-📱
+### 🎯 PRODUCT
 
-### Mobile
+I don't just build interfaces.
 
-Flutter applications  
-Cross-platform development
-
-</td>
-
-<td align="center" width="25%">
-
-🐍
-
-### Python
-
-Automation  
-Tools & systems
+I build products around real problems.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-🎮
+### 🧩 ARCHITECTURE
 
-### Games
-
-Godot  
-Game development
+Repository Pattern  
+Use Cases  
+Dependency Injection  
+Clean separation
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-🤝
-
-### Teamwork
+### 🤝 COLLABORATION
 
 Hackathons  
 Team projects  
-Leadership
+Leadership  
+Communication
 
 </td>
 
@@ -302,20 +302,142 @@ Leadership
 
 <div align="center">
 
-# LET'S BUILD SOMETHING.
+# 🚗 FEATURED PROJECT
 
-### 📱 Mobile · ⚙️ Software · 🎮 Games · 🚀 Ideas
+<img src="https://img.shields.io/badge/WASLINI-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+### A Flutter ride-hailing application
+
+<br>
+
+**Waslini** is a ride-hailing mobile application built around a map-centric
+experience with authentication, ride preview, booking infrastructure,
+routing and repository-based architecture.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python&theme=dark" />
+
+<br><br>
+
+**Architecture**
+
+`UI → Controller → UseCase → Repository → Data / API`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎨 CREATIVE SIDE
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+
+<br>
+
+<b>Figma</b>
+
+UI / UX Design
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=canva&theme=dark"/>
+
+<br>
+
+<b>Canva</b>
+
+Branding & Graphics
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=godot&theme=dark"/>
+
+<br>
+
+<b>Godot</b>
+
+Game Development
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+
+<br>
+
+<b>VS Code</b>
+
+Development
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+
+<br>
+
+<b>CapCut</b>
+
+Content
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=02569B&icon_color=02569B&text_color=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=000000&ring=02569B&fire=02569B&currStreakLabel=02569B"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📬 LET'S BUILD SOMETHING
+
+### Have an idea?
+
+### Let's turn it into a product.
 
 <br>
 
 <a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-02569B?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Instagram-Follow%20Me-02569B?style=for-the-badge&logo=instagram&logoColor=white">
-
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<sub>Built with Flutter mindset • Designed for builders</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer"/>
 
 </div>
