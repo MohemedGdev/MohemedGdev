@@ -298,20 +298,22 @@ Communication
 </div>
 
 ---
-
 <div align="center">
 
-# 🚗 FEATURED PROJECT
+# 📦 FEATURED PROJECT
 
-<img src="https://img.shields.io/badge/WASLINI-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/NAYA%20PRO-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-### A Flutter ride-hailing application
+### B2B Order & Delivery Management System
 
 <br>
 
-**Waslini** is a ride-hailing mobile application built around a map-centric
-experience with authentication, ride preview, booking infrastructure,
-routing and repository-based architecture.
+**Naya Pro** is a company management system designed to connect
+companies with their field delivery and sales representatives.
+
+The system digitizes the traditional paper-based ordering process,
+allowing representatives to submit orders directly and instantly
+to the company.
 
 <br>
 
@@ -319,12 +321,19 @@ routing and repository-based architecture.
 
 <br><br>
 
-**Architecture**
+**Core Concept**
 
-`UI → Controller → UseCase → Repository → Data / API`
+`Company → Naya Pro → Field Representative → Customer Order`
+
+<br>
+
+**Goal**
+
+Replace slow paper-based order workflows with a
+**fast, centralized digital system** for companies and their
+field teams.
 
 </div>
-
 ---
 
 <div align="center">
