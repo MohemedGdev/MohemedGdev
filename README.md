@@ -410,21 +410,9 @@ Content
 
 ---
 
-<div align="center">
 
-# 📊 GITHUB
 
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=02569B&icon_color=02569B&text_color=FFFFFF"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=000000&ring=02569B&fire=02569B&currStreakLabel=02569B"/>
-
-</div>
-
----
 
 <div align="center">
 
