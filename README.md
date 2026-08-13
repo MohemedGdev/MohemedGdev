@@ -48,7 +48,7 @@ Flutter · Dart · Python
 
 <br>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/mohamed_ait_dev/">
 <img src="https://img.shields.io/badge/Instagram-02569B?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
@@ -68,7 +68,7 @@ Video Editing · Content
 
 <br>
 
-<a href="YOUR_AMINE_PORTFOLIO">
+<a href="https://aminelaadjel-portfolio.my.canva.site/amine-s-portfolio?fbclid=PAT01DUATpvpBwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp8LZ9SAsRzyR6C8WhLB4g0JpjMbmi8qmFimyQ-h_ygzagxWBbrGwwp632LEV_aem_Zakp1LmBV90Iu6nbdYZWjg">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -88,7 +88,7 @@ Backend · APIs · Systems
 
 <br>
 
-<a href="YOUR_BACKEND_INSTAGRAM">
+<a href="https://www.instagram.com/ademb.ahi/">
 <img src="https://img.shields.io/badge/Instagram-02569B?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
