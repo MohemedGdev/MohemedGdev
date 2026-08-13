@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/mohamed_ait_dev/">
 <img src="https://img.shields.io/badge/Instagram-02569B?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
